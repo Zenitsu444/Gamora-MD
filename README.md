@@ -27,35 +27,33 @@
 
 ## Executando comandos básicos: ✨
 
-**Após instalar o apk, execute os seguintes comandos abaixo:**
+> Após instalar o apk, execute os seguintes comandos abaixo:
 
-> Copie e cole apenas 1 comando por vez, e pressione enter ou pular linha no seu teclado.
-> Espere o comando acabar para iniciar outro. 
-------------------
-1 - COMANDO: 🌸
-````bash
+> Copie e cole apenas 1 comando por vez e pressione Enter ou pular linha no seu teclado.  
+> Aguarde a conclusão do comando antes de iniciar outro.  
+------------------  
+1 - COMANDO: ✨
+```bash
 termux-change-repo
 ````
-> **Aviso*** Aperte em OK, Escolha a opção "Mirrors By Grimler" e pressione OK novamente!
-------------------
-2 - COMANDO: 🌸
+> Atenção: Clique em OK, escolha "Mirrors By Grimler" e pressione OK.  
+------------------  
+2 - COMANDO: ✨  
 ````bash
-pkg upgrade-y && pkg update -y
+cd /sdcard && git clone https://github.com/Zenitsu444/Gamora-MD.git
 ````
-> **Atenção**!!!
-> Se aparecer "(Y/I/N/O/D/Z) [default=N] ?", use Y e após Enter ou pular linha no seu teclado.
-------------------
-3 - COMANDO: 🌸
+> Instrução: Isso baixará os arquivos do bot  
+------------------  
+3 - COMANDO: ✨  
 ````bash
-pkg install -y ffmpeg nodejs-lts wget tesseract git && termux-setup-storage
+cd /sdcard/Gamora-MD && sh install.sh
 ````
-4 - COMANDO: 🌸
-````bash
-cd /sdcard && git clone https://github.com/Lm260/HutaoBot-MD.git
+> Importante: Siga as instruções na tela e, quando aparecer "(Y/I/N/O/D/Z) [default=N] ?", pressione Y e depois Enter.  
+------------------  
+4 - COMANDO: ✨️
+```bash
+cd /sdcard/Gamora-MD && sh start.sh
 ````
-5 - COMANDO: 🌸
-````bash
-cd /sdcard/Gamora-MD
-````
-> Use ele para Instalar as dependências necessárias e sempre que aparecer "(Y/I/N/O/D/Z) [default=N] ?", use Y e após Enter ou pular linha no seu teclado.
-------------------
+> Uso: Execute este comando sempre que quiser iniciar o bot.  
+------------------  
+
