@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝑮𝒂𝒎𝒐𝒓𝒂-𝑴𝑫+✿+V1.0✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0099FF&center=falso&vCenter=falso&lines=𝑮𝒂𝒎𝒐𝒓𝒂-𝑴𝑫+✿+V1.0✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
@@ -56,4 +56,4 @@ cd /sdcard/Gamora-MD && sh start.sh
 ````
 > Uso: Execute este comando sempre que quiser iniciar o bot.  
 ------------------
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝒁𝒆𝒏𝒊𝒕𝒔𝒖+𝑴𝒐𝒅𝒔+𝑫𝒐𝒎𝒊𝒏𝒂+>_<;𝑮𝒂𝒎𝒐𝒓𝒂-𝑴𝑫;✰✰✰✰✰">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0080FF&center=falso&vCenter=falso&lines=𝒁𝒆𝒏𝒊𝒕𝒔𝒖+𝑴𝒐𝒅𝒔+𝑫𝒐𝒎𝒊𝒏𝒂+>_<;𝑮𝒂𝒎𝒐𝒓𝒂-𝑴𝑫;✰✰✰✰✰">
